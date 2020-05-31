@@ -301,7 +301,7 @@
     session.addEventListener("end", onSessionEnded);
 
     var glLayer = new XRWebGLLayer(session, this.ctx, {
-      framebufferScaleFactor: 0.9,
+      framebufferScaleFactor: 0.8,
     });
 
     session.updateRenderState({ baseLayer: glLayer });
