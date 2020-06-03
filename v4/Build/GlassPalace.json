@@ -1,0 +1,16 @@
+{
+"companyName": "iRyanBell",
+"productName": "CrystalPalace",
+"productVersion": "0.1",
+"dataUrl": "GlassPalace.data.unityweb",
+"wasmCodeUrl": "GlassPalace.wasm.code.unityweb",
+"wasmFrameworkUrl": "GlassPalace.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.14f1"
+}
