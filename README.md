@@ -13,7 +13,7 @@ https://en.wikipedia.org/wiki/Mandelbox#Generation with camera position and time
 
 ![Crystal Palace: Screenshot 5](https://user-images.githubusercontent.com/25379378/83605686-2e78c700-a52d-11ea-9fb9-cce811cc78e6.jpg)
 
-![Crystal Palace: Screenshot 6](https://user-images.githubusercontent.com/25379378/83710276-312ef700-a5d5-11ea-8ecd-6d77e9aed78c.jpg)
+![Crystal Palace: Screenshot 6](https://user-images.githubusercontent.com/25379378/83711165-51f84c00-a5d7-11ea-9d18-0a49431f0fb4.png)
 
 Crystal Palace Shader Demo 4K: https://youtu.be/LbabOv4jEVc
 
