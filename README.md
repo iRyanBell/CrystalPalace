@@ -21,9 +21,6 @@ Aerial root cube fractal: https://youtu.be/F-sxdQnlfBE
 
 ---
 
-YouTube Demo:
-https://www.youtube.com/watch?v=LbabOv4jEVc
-
 Interactive demo (Use the spacebar or XR controller to move forward):
 https://iryanbell.github.io/CrystalPalace/
 
