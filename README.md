@@ -1,5 +1,8 @@
 # Crystal Palace Shader
 
+This shader renders stereo distance estimated fractals inspired by the mandelbox formula
+https://en.wikipedia.org/wiki/Mandelbox#Generation with camera position and time dependant features.
+
 ![Crystal Palace: Screenshot 1](https://user-images.githubusercontent.com/25379378/83323172-db8fce80-a211-11ea-9fd8-990728d9aeb4.png)
 
 ![Crystal Palace: Screenshot 2](https://user-images.githubusercontent.com/25379378/83585100-ceb6f780-a4fd-11ea-8b79-d2bca3313dad.jpg)
@@ -8,10 +11,13 @@
 
 ![Crystal Palace: Screenshot 4](https://user-images.githubusercontent.com/25379378/83585331-6ae0fe80-a4fe-11ea-8b85-32eaf6655d43.jpg)
 
-![Crystal Palace: Screenshot 5](https://user-images.githubusercontent.com/25379378/83593581-f021de80-a511-11ea-8109-e988c491cad7.jpeg)
+![Crystal Palace: Screenshot 5](https://user-images.githubusercontent.com/25379378/83605686-2e78c700-a52d-11ea-9fb9-cce811cc78e6.jpg)
 
-This shader renders stereo distance estimated fractals based on the sphere folding mandelbox technique
-https://en.wikipedia.org/wiki/Mandelbox#Generation with camera position and time dependant features.
+![Crystal Palace: Screenshot 6](https://user-images.githubusercontent.com/25379378/83710276-312ef700-a5d5-11ea-8ecd-6d77e9aed78c.jpg)
+
+Crystal Palace Shader Demo 4K: https://youtu.be/LbabOv4jEVc
+
+Aerial root cube fractal: https://youtu.be/F-sxdQnlfBE
 
 ---
 
